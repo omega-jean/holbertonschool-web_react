@@ -1,4 +1,4 @@
-// interface named Student
+// task 0
 interface Student {
     firstName: string;
     lastName: string;
@@ -6,7 +6,6 @@ interface Student {
     location: string;
 }
 
-// 2 students variables called student1 and student2
 const student1: Student = {
     firstName: "Ethan",
     lastName: "David",
